@@ -115,6 +115,7 @@ To deploy or share your analysis:
 ## 📬 Contact
 
 For questions or suggestions, open an issue or reach out via GitHub.
+sbalaiwar@gmail.com
 
 ---
 
